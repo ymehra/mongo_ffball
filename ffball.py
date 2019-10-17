@@ -58,11 +58,8 @@ def margins_plot(matches, names):
          ,marker=dict(size=2)
          ,line=dict(width=1)
       ))
-   graphs = [dict(data=traces)]
-   ids = ['graph-{}'.format(i) for i, _ in enumerate(graphs)]
-   graphJSON = json.dumps(graphs, cls=plotly.utils.PlotlyJSONEncoder)
-   return graphJSON, ids
-
+   graphJSON = json.dumps(traces, cls=plotly.utils.PlotlyJSONEncoder)
+   return graphJSON
 
 
 
