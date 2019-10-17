@@ -1,0 +1,193 @@
+{
+    "gameId": 1,
+    "id": 119974,
+    "members": [
+        {
+            "displayName": "malkamg",
+            "id": "{05E0DDEE-ACB4-4336-A0DD-EEACB47336AA}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "bohem1anrapsody",
+            "id": "{07F427F1-3952-4D5A-87A4-5CFF9223EFA1}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "peteski91495",
+            "id": "{0AA3B4F7-574C-4B85-A65D-AD3B686BF2E9}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "mceste1015279",
+            "id": "{1E09A962-7E5C-489C-98F9-57D003CAF50C}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "jakepp3314058",
+            "id": "{5B6BD7FF-7AF2-48BF-A2AF-E428B1D43B05}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "tpizar6861855",
+            "id": "{5E5DFF3F-7DBD-446D-BA83-0FF2E9F6A04E}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "yashm77",
+            "id": "{6BDA46AF-DA40-46B4-9A46-AFDA40A6B4D4}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "thetree30",
+            "id": "{85764AB3-90B6-4B77-B606-4FBECA254C06}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "mrgjman",
+            "id": "{A5175F0E-F231-4612-9781-872E34BD928D}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "dccunicelli",
+            "id": "{A9DDB5D2-34F5-436F-BFB0-F995FBB07EEC}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "ESPNFAN4141102139",
+            "id": "{C9564BFC-A22F-4EA6-BA05-A8B4CDC6DBED}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "mcpoopface",
+            "id": "{CFDF6937-2D04-4E8C-98C2-B6E04D8C1A5B}",
+            "isLeagueManager": false
+        },
+        {
+            "displayName": "halfpipeaaron",
+            "id": "{F338FE61-A002-4C2C-B135-11EE25A92293}",
+            "isLeagueManager": false
+        }
+    ],
+    "scoringPeriodId": 12,
+    "seasonId": 2019,
+    "segmentId": 0,
+    "settings": {
+        "name": "420 League Cup"
+    },
+    "status": {
+        "currentMatchupPeriod": 12,
+        "isActive": true,
+        "latestScoringPeriod": 12
+    },
+    "teams": [
+        {
+            "abbrev": "HSD",
+            "id": 1,
+            "location": "Hot Single",
+            "nickname": "Dads",
+            "owners": [
+                "{A5175F0E-F231-4612-9781-872E34BD928D}"
+            ]
+        },
+        {
+            "abbrev": "PIZA",
+            "id": 2,
+            "location": "The horses",
+            "nickname": "in the back",
+            "owners": [
+                "{5E5DFF3F-7DBD-446D-BA83-0FF2E9F6A04E}"
+            ]
+        },
+        {
+            "abbrev": "John",
+            "id": 3,
+            "location": "Kittle",
+            "nickname": "My Johnson",
+            "owners": [
+                "{0AA3B4F7-574C-4B85-A65D-AD3B686BF2E9}"
+            ]
+        },
+        {
+            "abbrev": "AT",
+            "id": 5,
+            "location": "Gank",
+            "nickname": "Top Plz",
+            "owners": [
+                "{F338FE61-A002-4C2C-B135-11EE25A92293}"
+            ]
+        },
+        {
+            "abbrev": "CUNI",
+            "id": 6,
+            "location": "The ",
+            "nickname": "Lizard King",
+            "owners": [
+                "{A9DDB5D2-34F5-436F-BFB0-F995FBB07EEC}"
+            ]
+        },
+        {
+            "abbrev": "BEAT",
+            "id": 7,
+            "location": "Tyreek Hill's",
+            "nickname": "Daycare",
+            "owners": [
+                "{07F427F1-3952-4D5A-87A4-5CFF9223EFA1}"
+            ]
+        },
+        {
+            "abbrev": "JPOW",
+            "id": 8,
+            "location": "Sad",
+            "nickname": "Adams",
+            "owners": [
+                "{5B6BD7FF-7AF2-48BF-A2AF-E428B1D43B05}"
+            ]
+        },
+        {
+            "abbrev": "GOLD",
+            "id": 9,
+            "location": "Two Ds",
+            "nickname": "Four QBs",
+            "owners": [
+                "{05E0DDEE-ACB4-4336-A0DD-EEACB47336AA}"
+            ]
+        },
+        {
+            "abbrev": "PS",
+            "id": 10,
+            "location": "NO,",
+            "nickname": "THIS IS PATRICK",
+            "owners": [
+                "{85764AB3-90B6-4B77-B606-4FBECA254C06}"
+            ]
+        },
+        {
+            "abbrev": "NBND",
+            "id": 11,
+            "location": "North Bay",
+            "nickname": "Nip Diddlers",
+            "owners": [
+                "{CFDF6937-2D04-4E8C-98C2-B6E04D8C1A5B}",
+                "{1E09A962-7E5C-489C-98F9-57D003CAF50C}"
+            ]
+        },
+        {
+            "abbrev": "GOAT",
+            "id": 12,
+            "location": "Bill",
+            "nickname": "Cosby's Sleeper",
+            "owners": [
+                "{6BDA46AF-DA40-46B4-9A46-AFDA40A6B4D4}"
+            ]
+        },
+        {
+            "abbrev": "shit",
+            "id": 13,
+            "location": "Kamara Hopkins",
+            "nickname": "Nothin Else",
+            "owners": [
+                "{C9564BFC-A22F-4EA6-BA05-A8B4CDC6DBED}"
+            ]
+        }
+    ]
+}
