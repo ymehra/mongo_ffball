@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-MONGO_CONNECTION_STRING = 'mongodb+srv://fftball_writer:<mBVuCDMnHuD7G-W*dWgU>@fftball-mtio2.mongodb.net/test?retryWrites=true&w=majority'
+MONGO_CONNECTION_STRING = ''
 
 ## Test connect to mongodb
 ##TODO: secure connect to mongo db
