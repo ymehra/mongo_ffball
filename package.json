@@ -1,0 +1,23 @@
+{
+  "name": "mongo_ffball",
+  "version": "1.0.0",
+  "description": "`npm install mongodb --save`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymehra/mongo_ffball.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymehra/mongo_ffball/issues"
+  },
+  "homepage": "https://github.com/ymehra/mongo_ffball#readme",
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  }
+}
